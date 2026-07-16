@@ -1,8 +1,9 @@
 <h1>WideCoverageLocation-Responsividade</h1>
 <br>
-<p>Este é o meu segundo projeto desenvolvido no DevClub, com o objetivo principal de consolidar conhecimentos em responsividade.</p>
+<p>Este é o meu segundo projeto desenvolvido no DevClub, com o objetivo principal de consolidar e aplicar conhecimentos práticos sobre responsividade.</p>
 <br>
-<a href="http://127.0.0.1:5500/Desafio-02-Responsividade/index.html">Check It Out!</a>
+<p>Você pode conferir o resultado final do projeto clicando no link abaixo:</p>
+<a href="https://jhemisonssz.github.io/WideCoverageLocation-Responsividade/">[Acesse aqui a página do projeto]</a>
 <br>
 <br>
 <div>
